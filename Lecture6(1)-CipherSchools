@@ -8,6 +8,7 @@ int main()
         cin>>password;
     }
     while(password<999999);
+    //ccout<<"enter number";
     //cout<<"enter the password:"<<endl;
     //cin>>password;
     //while(password<999999)
