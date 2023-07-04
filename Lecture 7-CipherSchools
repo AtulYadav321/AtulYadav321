@@ -1,3 +1,4 @@
+//while loop//
 #include<iostream>
 using namespace std;
 
@@ -14,3 +15,17 @@ int main(){
 	cout<<"The user entered the correct password"<<endl;
 	return 0;
 }
+
+// do while loop//
+//#include<iostream>
+//using namespace std;
+
+//int main(){
+	//int password;
+	
+	//do{
+	//	cin>>password;
+	//}while(password<999999);
+	
+//	return 0;
+//}
