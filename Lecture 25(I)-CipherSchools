@@ -1,0 +1,27 @@
+#include<iostream>
+using namespace std;
+
+class student{  
+	public:
+		string name;
+		int mids;
+		float ends;
+		bool pre_abs;
+};
+
+class vehicle{
+	public:
+		string car_name;
+		string tyre_name;
+		int no_of_tyres;
+		int no_of_seats;
+};
+
+int main(){
+	
+	student a,b,c;  
+	
+	vehicle hyundhi, ferari, suzuki;
+	
+	return 0;
+}
