@@ -1,4 +1,4 @@
-Hi,I’m @AtulYadav
+Hi,I’m AtulYadav
 
 <!---
 AtulYadav321/AtulYadav321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
